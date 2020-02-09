@@ -1,3 +1,2 @@
 # AdvexBrand
-AdvexBrand World Company
-Mining Chain
+Cryptocurrency company
