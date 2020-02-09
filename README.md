@@ -1,2 +1,2 @@
 # AdvexBrand
-Cryptocurrency company
+Cryptocurrency corporation
